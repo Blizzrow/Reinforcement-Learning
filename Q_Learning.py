@@ -169,3 +169,6 @@ for i in range(1000):
         print('eps =', agent.epsilon, 'mean reward =', np.mean(rewards[-10:]))
         plt.plot(rewards)
         plt.show()
+def Tesst():
+    print("TEsting Git ")
+Tesst()
